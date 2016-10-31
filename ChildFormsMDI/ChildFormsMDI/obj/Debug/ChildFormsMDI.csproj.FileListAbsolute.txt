@@ -7,3 +7,13 @@ C:\Silitski\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.csproj.GenerateR
 C:\Silitski\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.exe
 C:\Silitski\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.pdb
 C:\Silitski\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.ChildForm.resources
+C:\Silitski\GitHub\ChildFormsMDI\ChildFormsMDI\bin\Debug\ChildFormsMDI.exe.config
+C:\Silitski\GitHub\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.exe
+C:\Silitski\GitHub\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.pdb
+C:\Silitski\GitHub\ChildFormsMDI\ChildFormsMDI\bin\Debug\ChildFormsMDI.exe
+C:\Silitski\GitHub\ChildFormsMDI\ChildFormsMDI\bin\Debug\ChildFormsMDI.pdb
+C:\Silitski\GitHub\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.csprojResolveAssemblyReference.cache
+C:\Silitski\GitHub\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.ChildForm.resources
+C:\Silitski\GitHub\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.Form1.resources
+C:\Silitski\GitHub\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.Properties.Resources.resources
+C:\Silitski\GitHub\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.csproj.GenerateResource.Cache

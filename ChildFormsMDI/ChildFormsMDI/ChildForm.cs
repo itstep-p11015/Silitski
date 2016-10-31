@@ -159,7 +159,7 @@ namespace ChildFormsMDI
                 string type = fig.GetType().ToString();
                 switch (type)
                 {
-                    case "Graphic.Circle":
+                    case "ChildFormsMDI.Circle":
                         Circle circ = (Circle)fig;
                         figure = doc.CreateElement("circle");
                         figure.SetAttribute("cx", circ.x.ToString());
@@ -170,7 +170,7 @@ namespace ChildFormsMDI
                         figure.SetAttribute("fill", "white");
                         svg.AppendChild(figure);
                         break;
-                    case "Graphic.Rectangle":
+                    case "ChildFormsMDI.Rectangle":
                         Rectangle rec = (Rectangle)fig;
                         figure = doc.CreateElement("rect");
                         figure.SetAttribute("x", rec.x.ToString());
@@ -180,7 +180,7 @@ namespace ChildFormsMDI
                         figure.SetAttribute("style", ("fill:white;stroke:" + penColor.Name + ";stroke-width:" + penWidth.ToString()));
                         svg.AppendChild(figure);
                         break;
-                    case "Graphic.Line":
+                    case "ChildFormsMDI.Line":
                         Line line = (Line)fig;
                         figure = doc.CreateElement("line");
                         figure.SetAttribute("x1", line.x1.ToString());
