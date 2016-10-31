@@ -1,0 +1,9 @@
+C:\Silitski\ChildFormsMDI\ChildFormsMDI\bin\Debug\ChildFormsMDI.exe.config
+C:\Silitski\ChildFormsMDI\ChildFormsMDI\bin\Debug\ChildFormsMDI.exe
+C:\Silitski\ChildFormsMDI\ChildFormsMDI\bin\Debug\ChildFormsMDI.pdb
+C:\Silitski\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.Form1.resources
+C:\Silitski\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.Properties.Resources.resources
+C:\Silitski\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.csproj.GenerateResource.Cache
+C:\Silitski\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.exe
+C:\Silitski\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.pdb
+C:\Silitski\ChildFormsMDI\ChildFormsMDI\obj\Debug\ChildFormsMDI.ChildForm.resources
