@@ -28,7 +28,24 @@ namespace Phonebook
 
         public object ReturnNewElement()
         {
-            return textBox1.Text;
+            object res = null;
+             
+            switch (this.comboBox1.Text)
+            {
+                case "string": 
+                    res = textBox1.Text; 
+                    break;
+                case "int": 
+                    res = Int32.Parse(textBox1.Text); 
+                    break;
+                case "char[]": 
+                    res = textBox1.Text.ToCharArray(); 
+                    break;
+                case "Type":
+                    res = textBox1.Text;
+                    break;
+            }
+            return res;
         }
     }
 }

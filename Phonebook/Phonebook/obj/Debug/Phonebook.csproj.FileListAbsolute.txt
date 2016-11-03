@@ -8,3 +8,14 @@ E:\Илья\КА Шаг\2 семестр\WinForms\Phonebook\Phonebook\obj\Debug\
 E:\Илья\КА Шаг\2 семестр\WinForms\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
 E:\Илья\КА Шаг\2 семестр\WinForms\Phonebook\Phonebook\obj\Debug\Phonebook.MainForm.resources
 E:\Илья\КА Шаг\2 семестр\WinForms\Phonebook\Phonebook\obj\Debug\Phonebook.NewElementForm.resources
+C:\Silitski\GitHub\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Silitski\GitHub\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+C:\Silitski\GitHub\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+C:\Silitski\GitHub\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Silitski\GitHub\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Silitski\GitHub\Phonebook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Silitski\GitHub\Phonebook\Phonebook\obj\Debug\Phonebook.MainForm.resources
+C:\Silitski\GitHub\Phonebook\Phonebook\obj\Debug\Phonebook.NewElementForm.resources
+C:\Silitski\GitHub\Phonebook\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+C:\Silitski\GitHub\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.Cache
+C:\Silitski\GitHub\Phonebook\Phonebook\obj\Debug\Phonebook.NewContactForm.resources
